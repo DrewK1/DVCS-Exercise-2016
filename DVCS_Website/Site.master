@@ -56,6 +56,7 @@
                         <li><a runat="server" href="~/Whheeeeee">Whheeeeee</a></li>
                         <li><a runat="server" href="~/2ndPage">2ndPage</a></li>
                         <li><a runat="server" href="~/3rdPage">3rdPage</a></li>
+                        <li><a runat="server" href="~/4thPage">4thPage</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
